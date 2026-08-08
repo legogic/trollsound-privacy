@@ -11,4 +11,4 @@ nhân nào. Ứng dụng không kết nối mạng, không analytics, không qu�
 không tài khoản, không yêu cầu quyền hệ thống nào. Toàn bộ âm thanh được
 đóng gói sẵn trong ứng dụng.
 
-Contact / Liên hệ: vu2621.claude@gmail.com
+Contact / Liên hệ: legogic@gmail.com
